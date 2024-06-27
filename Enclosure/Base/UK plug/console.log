@@ -1,0 +1,144 @@
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayVresionUpdatePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWVersionUpdate.html?updateRequired=True&mandatory=False&newVersion=6.32.0510
+Line: 181
+-----------------------
+Level: Info
+Message: DisplayMarketplaceWelcomePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWMarketplaceWelcome.html?homeURL=https%3a%2f%2fr1132100503382-eu1-ifwe.3dexperience.3ds.com%2f%3faddinmode%3dsolidworks%26utm_medium%3dNATIVE_APP
+Line: 210
+-----------------------
+Level: Info
+Message: DisplayMarketplaceWelcomePage() sw3DPrintConnector undefined
+Source: file:///C:/Users/HP/AppData/Local/Temp/swcachedir/SWMarketplaceAddin/SWMarketplaceWelcome.html?homeURL=https%3a%2f%2fr1132100503382-eu1-ifwe.3dexperience.3ds.com%2f%3faddinmode%3dsolidworks%26utm_medium%3dNATIVE_APP
+Line: 210
+-----------------------
+Level: Info
+Message: Tracker.js - init - version 2.0.10
+Source: https://r1132100503382-eu1.iam.3dexperience.3ds.com/3DPassport/resources-230929151908/js/libs/Usage/Usage.js
+Line: 1
+-----------------------
+Level: Info
+Message: Tracker.js - init - version 2.0.13
+Source: https://r1132100503382-eu1-ifwe.3dexperience.3ds.com/resources/20231221T034938Z/en/wp/bundle-min.js
+Line: 182
+-----------------------
+Level: Error
+Message: Uncaught null
+Source: https://r1132100503382-eu1-ifwe.3dexperience.3ds.com/resources/20231221T034938Z/en/wp/bundle-min.js
+Line: 178
+-----------------------
+Level: Error
+Message: Uncaught (in promise) undefined
+Source: https://r1132100503382-eu1-ifwe.3dexperience.3ds.com/?addinmode=solidworks&utm_medium=NATIVE_APP&serverId=FRONT_3
+Line: 0
+-----------------------
+Level: Info
+Message: initializing Compass
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/c/UWA/js/UWA_W3C_Alone.js
+Line: 9
+-----------------------
+Level: Info
+Message: loaded en translations
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/c/UWA/js/UWA_W3C_Alone.js
+Line: 9
+-----------------------
+Level: Info
+Message: %sonCancel
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/WebappsUtils/WebappsUtils.js
+Line: 5
+-----------------------
+Level: Info
+Message: Compass refresh: parsing apps
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/c/UWA/js/UWA_W3C_Alone.js
+Line: 9
+-----------------------
+Level: Info
+Message: onCompassLoaded
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/c/UWA/js/UWA_W3C_Alone.js
+Line: 9
+-----------------------
+Level: Info
+Message: setupRequire: RequireJS error type: "notloaded" for module(s): undefined
+Error: Module name "DS/UWPClientCode/PublicAPI" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+    at makeError (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:2563)
+    at Object.o [as require] (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:15152)
+    at requirejs (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:3102)
+    at require (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:19561)
+    at i (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/PlatformAPI/PlatformAPI.js:1:309)
+    at Object.getApplicationConfiguration (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/PlatformAPI/PlatformAPI.js:1:2176)
+    at Function.m.fetchPromise (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFConnector/MPFConnector.js:1:3208)
+    at t._getData (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFMiniCartComponent/MPFMiniCartComponent.js:1:3489)
+    at t.hasItems (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFMiniCartComponent/MPFMiniCartComponent.js:1:3373)
+    at Function.l.hasItems (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFMiniCartComponent/MPFMiniCartComponent.js:1:4713)
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js
+Line: 1
+-----------------------
+Level: Warn
+Message: MarketplaceConnector - no platformId provided or found in configuration
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFConnector/MPFConnector.js
+Line: 1
+-----------------------
+Level: Info
+Message: setupRequire: RequireJS error type: "notloaded" for module(s): undefined
+Error: Module name "DS/UWPClientCode/PublicAPI" has not been loaded yet for context: _. Use require([])
+http://requirejs.org/docs/errors.html#notloaded
+    at makeError (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:2563)
+    at Object.o [as require] (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:15152)
+    at requirejs (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:3102)
+    at require (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js:1:19561)
+    at i (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/PlatformAPI/PlatformAPI.js:1:309)
+    at Object.getApplicationConfiguration (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/PlatformAPI/PlatformAPI.js:1:2176)
+    at Object.a.authenticatedRequest (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/WAFData/WAFData.js:1:10011)
+    at t.request (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFConnector/MPFConnector.js:1:3017)
+    at t.doGet (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFDataProxy/MPFDataProxy.js:1:1826)
+    at t.request (https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/MPFDataProxy/MPFDataProxy.js:1:1603)
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/AmdLoader/AmdLoader.js
+Line: 1
+-----------------------
+Level: Error
+Message: Uncaught (in promise) #<Object>
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/i3DXCompassStandalone/i3DXCompassStandalone.html?addinmode=solidworks&utm_medium=NATIVE_APP&serverId=FRONT_3
+Line: 0
+-----------------------
+Level: Error
+Message: Uncaught (in promise) #<Object>
+Source: https://r1132100503382-eu1-apps.3dexperience.3ds.com/enovia/webapps/i3DXCompassStandalone/i3DXCompassStandalone.html?addinmode=solidworks&utm_medium=NATIVE_APP&serverId=FRONT_3
+Line: 0
+-----------------------
