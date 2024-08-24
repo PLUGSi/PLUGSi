@@ -22,15 +22,19 @@ https://github.com/user-attachments/assets/67be34dc-b150-4223-8576-c7e0ef582f0e
 ## PCB
 For Each moduel Seperate PCBs were created.
 
-### Project Structure
-- **`plug_base/`**: PCB files for the main plug base.
-- **`timer_module/`**: PCB files for the reprogrammable timer module.
-- **`set_timer_module/`**: PCB files for the set timer module.
-- **`wireless_switch_module/`**: PCB files for the wireless switch module.
-- **`bluetooth_module/`**: PCB files for the Bluetooth module.
+### Modules
+- plug_base
+- timer_module
+- set_timer_module
+- wireless_switch_module
+- bluetooth_module
 
 ### Images
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/PLUGSi/Unity-AR-mobile-app/assets/123849272/5da332ff-5104-4d6e-95be-3df3d8d697f0" style="width: 30%; height: auto;">
+    <img src="https://github.com/PLUGSi/Unity-AR-mobile-app/assets/123849272/ec9bae76-b716-48df-91bd-75e8f302de7e" style="width: 30%; height: auto;">
+    <img src="https://github.com/PLUGSi/Unity-AR-mobile-app/assets/123849272/3749e872-4f46-499e-bf67-e65405f835d0" style="width: 30%; height: auto;">
+</div>
 
 **Open PCB files using Altium PCB design software.**
 
